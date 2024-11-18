@@ -1,0 +1,19 @@
+.o:hover~#div4{
+    background-color: orange;
+}
+.g:hover~#div4{
+    background-color:green ;
+}
+
+.b:hover~#div4{
+ background-color:blue ;   
+}
+
+.y:hover~#div4{
+ background-color:yellow ;   
+}
+#div4{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}

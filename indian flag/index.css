@@ -1,0 +1,57 @@
+.f1{
+    border:2px solid brown ;
+    height:40px ;
+    width:180px;
+    margin:50px 00px 00px 150px; 
+    background-color: orange;
+ }
+ .f2{
+     border:2px solid black ;
+    height:40px ;
+    width:180px ;
+    background-color:white ;
+    margin:0px 00px 00px 150px ;
+ }
+ .f3{
+     border:2px solid black ;
+    height: 40px;
+    width: 180px;
+    background-color:green ;
+    margin: 0px 00px 00px 150px;
+ }
+ .f4{
+     border:2px solid blue ;
+    height: 39px;
+    width: 37px;
+    background-color: ;
+     margin:00px 00px 00px 70px ; 
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px ;
+    border-bottom-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+ }
+ .f5{
+     border:2px solid black ;
+    height:550px ;
+    width:5px;
+    background-color:black ;
+    margin:-150px 00px 00px 145px ;
+ }
+ .f6{
+     border: 2px solid black;
+    height:100px ;
+    width:180px ;
+    background-color: black;
+    margin:00px 00px 00px 60px ;
+ }
+    .f7{
+     border:2px solid black ;
+     height:20px ;
+     width:20px ;
+     background-color: red;
+     margin: -680px 00px 00px 137px; 
+     border-top-left-radius: 20px;
+     border-top-right-radius: 20px;
+     border-bottom-left-radius: 20px;
+     border-bottom-right-radius: 16px;    
+    }

@@ -1,19 +1,57 @@
 .t1{
  border: 2px solid black;
- 
+ height: 250px;
+ width: 80px;
+ border-top-left-radius: 50px;
+ border-top-right-radius: 50px;
+ border-bottom-left-radius: 50px;
+ border-bottom-right-radius: 50px;
+ background-color: black;
 }
 .t2{
-
+border: 2px solid black;
+height:50px ;
+width: 50px;
+border-top-left-radius:50px ;
+border-top-right-radius:50px ;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
+margin: 20px 00px 0px 14px;
 }
 .t3{
-
+    border: 2px solid black;
+    height:50px ;
+    width: 50px;
+    border-top-left-radius:50px ;
+    border-top-right-radius:50px ;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: 20px 00px 0px 14px;
 }
 .t4{
-
+    border: 2px solid black;
+    height:50px ;
+    width: 50px;
+    border-top-left-radius:50px ;
+    border-top-right-radius:50px ;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: 20px 00px 0px 14px;
 }
 .t5{
-
+  border: 2px solid black;
+  height: 400px;
+  width: 4px;
+  margin: 00px 5px 00px 40px;
+  background-color: black;
 }
 .t6{
-
+    border: 2px solid black;
+    height: 50px;
+    width: 70px;
+    margin: 00px 5px 00px 10px;
+    background-color: black;
 }
+.t2:hover{background-color: red;}
+.t3:hover{background-color: orange;}
+.t4:hover{background-color: green;}
